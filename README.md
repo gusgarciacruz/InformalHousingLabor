@@ -15,4 +15,9 @@ The Files folder contains the data used:
 - [Shape](https://gusgarciacruz.github.io/InformalHousingLabor/Medellin_Map.zip): cartography of the analytical regions of the urban area of Medellín and it allows to built the W matrix and replicate Figure 5 (the other figures were calculated using QGIS and we do not have code)
 
 ### Slides
-We have a presentation of the paper made at the 20th IEA World Congress in 2023. [Slides](https://gusgarciacruz.github.io/Presentations/IEA2023/SlidesIEA2023.html)  
+[Slides](https://gusgarciacruz.github.io/Presentations/IEA2023/SlidesIEA2023.html): Presentation at the 20th IEA World Congress in 2023.  
+
+### Authors
+- [Gustavo A. García](https://gusgarciacruz.github.io/cv) - Universidad EAFIT (Colombia)
+- [Erika R. Badillo](https://ebadilloe.github.io/) - Universidad Autónoma Latinoamericana (Colombia)
+- Juan Manuel Aristizábal - Universidad de Manizales (Colombia)
