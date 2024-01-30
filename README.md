@@ -15,7 +15,10 @@ The Files folder contains the data used:
 - [Shape](https://gusgarciacruz.github.io/InformalHousingLabor/Medellin_Map.zip): cartography of the analytical regions of the urban area of Medellín and it allows to built the W matrix and replicate Figure 5 (the other figures were calculated using QGIS and we do not have code)
 
 ### Slides
-[Slides](https://gusgarciacruz.github.io/Presentations/IEA2023/SlidesIEA2023.html): Presentation at the 20th IEA World Congress in 2023.  
+[Slides](https://gusgarciacruz.github.io/Presentations/IEA2023/SlidesIEA2023.html): Presentation at the 20th IEA World Congress in 2023 
+
+### Citation
+García, G., Badillo, E., Aristizábal, J. "Housing informality and labor informality in space: in search of the missing links", **Applied Spatial Analysis and Policy**, forthcoming
 
 ### Authors
 - [Gustavo A. García](https://gusgarciacruz.github.io/cv) - Universidad EAFIT (Colombia)
