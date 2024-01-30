@@ -3,7 +3,7 @@
 In this repository you will find the codes and dataset to replicate the main findings of the paper.
 
 ### Codes
-The "Codes" folder contains information about the codes in the R language:
+The Codes folder contains information about the codes in the R language:
 
 - [Descriptive Statistics](https://gusgarciacruz.github.io/InformalHousingLabor/Descriptive_Statistics.R): code for the descriptive statistics
 - [Estimates](https://gusgarciacruz.github.io/InformalHousingLabor/Estimates.R): code for the econometrics models
@@ -13,7 +13,7 @@ Both the Descriptive Statistics and Estimates files
 use the csv file called "García-Badillo-Aristizábal.csv". LISA bivariate use the file Medellin_Map.shp 
 
 ### Files
-The "Files" folder contains the data used:
+The Files folder contains the data used:
 
 - [Data](https://gusgarciacruz.github.io/InformalHousingLabor/García-Badillo-Aristizábal.csv): dataset used
 - [Shape](https://gusgarciacruz.github.io/InformalHousingLabor/Medellin_Map.zip): cartography of the analytical regions of the urban area of Medellín and it allows to built the W matrix and replicate Figure 5 (the other figures were calculated using QGIS and we do not have code)
