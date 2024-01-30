@@ -1,6 +1,4 @@
----
-pagetitle: "Erika R. Badillo"
----
+## Replication files for the paper "Housing informality and labor informality in space, in search of the missing links"
 
 ### Codes
 The Codes folder contains information about the codes in the R language:
