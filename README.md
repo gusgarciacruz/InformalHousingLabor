@@ -12,7 +12,7 @@ The "Codes" folder contains information about the codes in the R language:
 Both the Descriptive Statistics.R and Estimates.R 
 use the csv file called "García-Badillo-Aristizábal.csv"
 
-LISA - Bivariate_2017.R use the file Medellin_Map.shp 
+LISA bivariate.R use the file Medellin_Map.shp 
 
 ### Files
 The "Files" folder contains the data used:
