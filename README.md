@@ -1,4 +1,4 @@
-## Replication files for the paper: García, G., Badillo, E, Aristizábal, J. (2024). "Housing informality and labor informality in space: in search of the missing links". *Applied Spatial Analysis and Policy*, forthcoming
+## Replication files for the paper: [García, G.](https://gusgarciacruz.github.io/cv), [Badillo, E](https://ebadilloe.github.io/), Aristizábal, J. (2024). "Housing informality and labor informality in space: in search of the missing links". *Applied Spatial Analysis and Policy*, forthcoming
 
 In this repository you will find the codes and dataset to replicate the main findings of the paper.
 
