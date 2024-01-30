@@ -9,10 +9,8 @@ The "Codes" folder contains information about the codes in the R language:
 - [Estimates](https://gusgarciacruz.github.io/InformalHousingLabor/Estimates.R): code for the econometrics models
 - [LISA bivariate](https://gusgarciacruz.github.io/InformalHousingLabor/LISA_Bivariate_2017.R): code for the LISA bivariate (Fig 5) 
 
-Both the Descriptive Statistics.R and Estimates.R 
-use the csv file called "García-Badillo-Aristizábal.csv"
-
-LISA bivariate.R use the file Medellin_Map.shp 
+Both the Descriptive Statistics and Estimates files 
+use the csv file called "García-Badillo-Aristizábal.csv". LISA bivariate use the file Medellin_Map.shp 
 
 ### Files
 The "Files" folder contains the data used:
