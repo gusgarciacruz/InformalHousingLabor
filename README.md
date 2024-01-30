@@ -1,3 +1,7 @@
+---
+pagetitle: "Erika R. Badillo"
+---
+
 ### Codes
 The Codes folder contains information about the codes in the R language:
 
