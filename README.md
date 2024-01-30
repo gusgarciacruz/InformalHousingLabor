@@ -2,10 +2,6 @@
 
 In this repository you will find the codes and dataset to replicate the main findings of the paper.
 
-There are two subfolders: Codes and Files
-- [Codes](https://gusgarciacruz.github.io/InformalHousingLabor/Codes) 
-- [Files](https://gusgarciacruz.github.io/InformalHousingLabor/Files)
-
 ### Codes
 The "Codes" folder contains information about the codes in the R language:
 
