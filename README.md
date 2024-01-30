@@ -25,5 +25,7 @@ Data contains the csv file and Shapes the file with the .shp
 extension that allow you to built the W matrix and replicate Figure 5 
 (the other figures were calculated using QGIS and we do not have code).
 
-The Medellin_Map.shp file refers to a cartography of
-the analytical regions of the urban area of Medellín.
+The Medellin_Map.shp file refers to a cartography of the analytical regions of the urban area of Medellín.
+
+### Slides
+We have a presentation of the paper made at the 20th IEA World Congress in 2023. [Slides](https://gusgarciacruz.github.io/Presentations/IEA2023/SlidesIEA2023.html)  
