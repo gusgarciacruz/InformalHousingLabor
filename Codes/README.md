@@ -1,3 +1,3 @@
-- [Descriptive Statistics.R](https://gusgarciacruz.github.io/InformalHousingLabor/Codes/Descriptive Statistics.R)
+- [Descriptive Statistics.R](https://gusgarciacruz.github.io/InformalHousingLabor/Codes/Descriptive%Statistics.R)
 - [Estimates.R](https://gusgarciacruz.github.io/InformalHousingLabor/Codes/Estimates.R)
 - [LISA - Bivariate_2017.R](https://gusgarciacruz.github.io/InformalHousingLabor/Codes/LISA - Bivariate_2017.R)
