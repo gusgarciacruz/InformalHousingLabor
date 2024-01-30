@@ -1,2 +1,0 @@
-- [Data](https://gusgarciacruz.github.io/InformalHousingLabor/Files/Data)
-- [Shapes](https://gusgarciacruz.github.io/InformalHousingLabor/Files/Shapes)
