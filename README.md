@@ -14,7 +14,7 @@ use the csv file called *DataGarcia_Badillo_Aristizabal.csv*. LISA bivariate use
 The Files folder contains the data used:
 
 - [Data](https://gusgarciacruz.github.io/InformalHousingLabor/DataGarcia_Badillo_Aristizabal.csv): dataset used
-- [Shape](https://gusgarciacruz.github.io/InformalHousingLabor/Medellin_Map.zip): cartography of the analytical regions of the urban area of Medellín and it allows to built the W matrix and replicate Figure 5 (the other figures were calculated using QGIS and we do not have code)
+- [Shape](https://gusgarciacruz.github.io/InformalHousingLabor/Medellin_Map.zip): cartography of the analytical regions of the urban area of Medellín and it allows to built the W matrix and replicate Figure 5 (the other figures were calculated using QGIS and there is no code available)
 
 ### Slides
 [Slides](https://gusgarciacruz.github.io/Presentations/IEA2023/SlidesIEA2023.html): Presentation at the 20th IEA World Congress in 2023 
