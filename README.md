@@ -10,8 +10,8 @@ The Codes folder contains information about the codes in the R language:
 Both the Descriptive Statistics and Estimates files 
 use the csv file called *DataGarcia_Badillo_Aristizabal.csv*. LISA bivariate uses the file *Medellin_Map.shp* 
 
-### Files
-The Files folder contains the data used:
+### Data
+The Data folder contains the data used:
 
 - [Data](https://gusgarciacruz.github.io/InformalHousingLabor/DataGarcia_Badillo_Aristizabal.csv): dataset used
 - [Shape](https://gusgarciacruz.github.io/InformalHousingLabor/Medellin_Map.zip): cartography of the analytical regions of the urban area of Medellín and it allows to built the W matrix and replicate Figure 5 (the other figures were calculated using QGIS and there is no code available)
