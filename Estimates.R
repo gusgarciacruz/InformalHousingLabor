@@ -34,7 +34,7 @@ sd(Medellin$dist_CBD, na.rm = TRUE)
 
 #Import data
 setwd("")
-data<-read.csv("García-Badillo-Aristizábal.csv")
+data<-read.csv("DataGarcia_Badillo_Aristizabal.csv")
 
 #[1] Create population density variable
 data$Density<-data$Population/data$Area

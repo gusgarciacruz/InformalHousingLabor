@@ -8,7 +8,7 @@ The Codes folder contains information about the codes in the R language:
 - [LISA bivariate](https://gusgarciacruz.github.io/InformalHousingLabor/LISA_Bivariate_2017.R): code for the LISA bivariate (Fig 5) 
 
 Both the Descriptive Statistics and Estimates files 
-use the csv file called *DataGarcia_Badillo_Aristizabal.csv*. LISA bivariate use the file *Medellin_Map.shp* 
+use the csv file called *DataGarcia_Badillo_Aristizabal.csv*. LISA bivariate uses the file *Medellin_Map.shp* 
 
 ### Files
 The Files folder contains the data used:
