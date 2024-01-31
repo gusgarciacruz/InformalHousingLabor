@@ -20,7 +20,7 @@ The Data folder contains the data used:
 [Slides](https://gusgarciacruz.github.io/Presentations/IEA2023/SlidesIEA2023.html): Presentation at the 20th IEA World Congress in 2023 
 
 ### Cite
-García, G., Badillo, E., Aristizábal, J. (2024). "Housing informality and labor informality in space: in search of the missing links", *Applied Spatial Analysis and Policy*, forthcoming
+García, G., Badillo, E., Aristizábal, J. (2024). "[Housing informality and labor informality in space: in search of the missing links](https://link.springer.com/journal/12061)", *Applied Spatial Analysis and Policy*, forthcoming
 
 ### Authors
 - [Gustavo A. García](https://gusgarciacruz.github.io/cv) - Universidad EAFIT (Colombia)
